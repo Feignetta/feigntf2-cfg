@@ -15,6 +15,7 @@ Personalized [HypnoHUD](https://github.com/Hypnotize/HypnoHUD)
 | Setting | Value |
 |---|---|
 | Sensitivity | 2.20 |
+| DPI | 1600 |
 
 ## Launch Options
 
