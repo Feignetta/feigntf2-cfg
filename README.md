@@ -32,3 +32,7 @@ Personalized [HypnoHUD](https://github.com/Hypnotize/HypnoHUD)
    ```
    ~/.steam/steam/steamapps/common/Team Fortress 2/tf/cfg/
    ```
+3. Copy the contents of `custom/` to your TF2 custom folder:
+   ```
+   ~/.steam/steam/steamapps/common/Team Fortress 2/tf/custom/
+   ```
