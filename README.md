@@ -1,4 +1,4 @@
-# feigntf2-cfg
+# Feignetta's TF2 CFG
 
 My personal Team Fortress 2 configuration files.
 
